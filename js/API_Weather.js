@@ -15,6 +15,7 @@ class API_WEATHER{
       city = "paris";
     }
     this.city = city;
+
   }
 
   // Faire la requete à l'API openweathermap
